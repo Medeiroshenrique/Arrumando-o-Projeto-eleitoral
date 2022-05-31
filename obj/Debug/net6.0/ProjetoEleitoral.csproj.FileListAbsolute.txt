@@ -1,0 +1,15 @@
+C:\Users\olegk\OneDrive\Documentos\Projeto OO\ProjetoEleitoral\bin\Debug\net6.0\ProjetoEleitoral.exe
+C:\Users\olegk\OneDrive\Documentos\Projeto OO\ProjetoEleitoral\bin\Debug\net6.0\ProjetoEleitoral.deps.json
+C:\Users\olegk\OneDrive\Documentos\Projeto OO\ProjetoEleitoral\bin\Debug\net6.0\ProjetoEleitoral.runtimeconfig.json
+C:\Users\olegk\OneDrive\Documentos\Projeto OO\ProjetoEleitoral\bin\Debug\net6.0\ProjetoEleitoral.dll
+C:\Users\olegk\OneDrive\Documentos\Projeto OO\ProjetoEleitoral\bin\Debug\net6.0\ProjetoEleitoral.pdb
+C:\Users\olegk\OneDrive\Documentos\Projeto OO\ProjetoEleitoral\obj\Debug\net6.0\ProjetoEleitoral.csproj.AssemblyReference.cache
+C:\Users\olegk\OneDrive\Documentos\Projeto OO\ProjetoEleitoral\obj\Debug\net6.0\ProjetoEleitoral.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olegk\OneDrive\Documentos\Projeto OO\ProjetoEleitoral\obj\Debug\net6.0\ProjetoEleitoral.AssemblyInfoInputs.cache
+C:\Users\olegk\OneDrive\Documentos\Projeto OO\ProjetoEleitoral\obj\Debug\net6.0\ProjetoEleitoral.AssemblyInfo.cs
+C:\Users\olegk\OneDrive\Documentos\Projeto OO\ProjetoEleitoral\obj\Debug\net6.0\ProjetoEleitoral.csproj.CoreCompileInputs.cache
+C:\Users\olegk\OneDrive\Documentos\Projeto OO\ProjetoEleitoral\obj\Debug\net6.0\ProjetoEleitoral.dll
+C:\Users\olegk\OneDrive\Documentos\Projeto OO\ProjetoEleitoral\obj\Debug\net6.0\refint\ProjetoEleitoral.dll
+C:\Users\olegk\OneDrive\Documentos\Projeto OO\ProjetoEleitoral\obj\Debug\net6.0\ProjetoEleitoral.pdb
+C:\Users\olegk\OneDrive\Documentos\Projeto OO\ProjetoEleitoral\obj\Debug\net6.0\ProjetoEleitoral.genruntimeconfig.cache
+C:\Users\olegk\OneDrive\Documentos\Projeto OO\ProjetoEleitoral\obj\Debug\net6.0\ref\ProjetoEleitoral.dll
